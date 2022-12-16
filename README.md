@@ -16,7 +16,13 @@
 
 - [Foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 
-## Helpful libraries (JavaScript, React)
+## Libraries (Solidity)
+
+- [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
+- [solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
+- [solady](https://github.com/Vectorized/solady) - Optimized Solidity snippets.
+
+## Libraries (JavaScript, React)
 
 - [wagmi](https://github.com/wagmi-dev/wagmi) - React Hooks for Ethereum.
 - [react-web3](https://github.com/coopermaruyama/react-web3) - Ensure web3 is available before your app loads.
@@ -45,12 +51,15 @@
 
 - [OpenZeppelin / solidity-docgen](https://github.com/stars/karooolis/lists/web3-tools#:~:text=OpenZeppelin%20/%20solidity%2Ddocgen) - Documentation generator for Solidity projects.
 
-## References
+## References & guidelines
 
-- [crytic / evm-opcodes](https://github.com/crytic/evm-opcodes) - Ethereum opcodes and instruction reference.
-- 
+- [EVM Codes](https://www.evm.codes/) - Ethereum opcodes and instruction reference.
+- [Solidity by Example](https://solidity-by-example.org/) - an introduction to Solidity with simple examples.
+- [Solidity Patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices for the smart contract programming language Solidity.
+- [Building Secure Smart Contracts](https://github.com/crytic/building-secure-contracts) - Guidelines and training material to write secure smart contracts.
+- [Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) - A guide to smart contract security best practices.
 
-## Starter kits
+## Starter kits & templates
 
 - [foundry-rs / hardhat-foundry-template](https://github.com/foundry-rs/hardhat-foundry-template) - Minimal template to get started with Foundry + Hardhat.
 - [m1guelpf / dapp-starter](https://github.com/m1guelpf/dapp-starter) - This starter kit is composed of Next.js and Tailwind CSS, with ConnectKit, ethers, & wagmi for all your web3 needs. It uses Typescript and an opinionated directory structure for maximum dev confy-ness.
@@ -58,11 +67,11 @@
 - [coinbase / nft-dapp-starter-kit](https://github.com/coinbase/nft-dapp-starter-kit) - Starter kit for developers who want to build an NFT minting site.
 - [G3root / nextjs-dapp-starter-ts](https://github.com/G3root/nextjs-dapp-starter-ts) - A fullstack monorepo template to develop ethereum dapps.
 - [MetaMask / template-snap-monorepo](https://github.com/MetaMask/template-snap-monorepo) - This repository demonstrates how to develop a snap with TypeScript.
+- [marcelc63 / popular-contract-templates](https://github.com/marcelc63/popular-contract-templates) - Templates for Popular NFT Smart Contracts.
 
 ## Code quality, security & linting
 
 - [duaraghav8 / Ethlint](https://github.com/duaraghav8/Ethlint) - (Formerly Solium) Code quality & Security Linter for Solidity.
-- 
 
 ## Faucets
 
@@ -84,10 +93,10 @@
 
 - [Uniswap v3 book](https://github.com/Jeiwan/uniswapv3-book) - Uniswap V3 Development Book.
 - [The Auditor Book](https://theauditorbook.com/) - A compilation of high and medium-severity findings from Code4rena & Sherlock.
-- []() - 
 
 ## Awesome lists
 
 - [crisgarner / awesome-foundry](https://github.com/crisgarner/awesome-foundry) - A curated list of awesome of the Foundry development framework.
 - [ConsenSys / ethereum-developer-tools-list](https://github.com/ConsenSys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
 - [jasonwalsh / awesome-dapps](https://github.com/jasonwalsh/awesome-dapps) - A curated list of awesome decentralized applications / resources.
+- [bkrem / awesome-solidity](https://github.com/bkrem/awesome-solidity) - A curated list of awesome Solidity resources, libraries, tools and more.
