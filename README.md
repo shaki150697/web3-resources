@@ -36,8 +36,8 @@
 
 ## Wallets
 
+- [WalletConnect](https://walletconnect.com/) - The communications protocol for web3, WalletConnect brings the ecosystem together by enabling wallets and apps to securely connect and interact.
 - [Rainbow Kit](https://github.com/rainbow-me/rainbowkit) - RainbowKit is a React library that makes it easy to add wallet connection to your dApp.
-- 
 
 ## Other helpful tools
 
