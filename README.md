@@ -50,9 +50,14 @@
 - [crytic / evm-opcodes](https://github.com/crytic/evm-opcodes) - Ethereum opcodes and instruction reference.
 - 
 
-## Templates
+## Starter kits
 
 - [foundry-rs / hardhat-foundry-template](https://github.com/foundry-rs/hardhat-foundry-template) - Minimal template to get started with Foundry + Hardhat.
+- [m1guelpf / dapp-starter](https://github.com/m1guelpf/dapp-starter) - This starter kit is composed of Next.js and Tailwind CSS, with ConnectKit, ethers, & wagmi for all your web3 needs. It uses Typescript and an opinionated directory structure for maximum dev confy-ness.
+- [paulrberg / create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered apps with one command.
+- [coinbase / nft-dapp-starter-kit](https://github.com/coinbase/nft-dapp-starter-kit) - Starter kit for developers who want to build an NFT minting site.
+- [G3root / nextjs-dapp-starter-ts](https://github.com/G3root/nextjs-dapp-starter-ts) - A fullstack monorepo template to develop ethereum dapps.
+- [MetaMask / template-snap-monorepo](https://github.com/MetaMask/template-snap-monorepo) - This repository demonstrates how to develop a snap with TypeScript.
 
 ## Code quality, security & linting
 
@@ -66,12 +71,20 @@
 ## Roadmaps
 
 - [OffcierCia / DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
-- 
 
 ## Cheatsheets
 
 - [Foundry cheatsheet](https://github.com/dabit3/foundry-cheatsheet)
-- 
+
+## Example projects
+
+- [dabit3 / polygon-ethereum-nextjs-marketplace](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace) - A full stack digital marketplace running on Ethereum with Polygon & Next.js.
+
+## Awesome books
+
+- [Uniswap v3 book](https://github.com/Jeiwan/uniswapv3-book) - Uniswap V3 Development Book.
+- [The Auditor Book](https://theauditorbook.com/) - A compilation of high and medium-severity findings from Code4rena & Sherlock.
+- []() - 
 
 ## Awesome lists
 
