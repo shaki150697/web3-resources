@@ -15,19 +15,24 @@
 ## Development environments
 
 - [Foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [Hardhat](https://hardhat.org/) - development environment that helps developers in testing, compiling, deploying, and debugging dApps on the Ethereum blockchain.
+- [Truffle](https://trufflesuite.com/truffle/) - build, test, debug, and deploy using the Truffle CLI. Write scripts and plugins to automate common processes. Interact directly with the blockchain using the Truffle console. Write tests in Solidity, JavaScript, and TypeScript. Truffle will manage your entire workflow.
 
 ## Libraries (Solidity)
 
 - [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
+- [a16z Contracts](https://github.com/a16z/a16z-contracts) - A repository for contracts written by a16z.
 - [solmate](https://github.com/transmissions11/solmate) - Modern, opinionated, and gas optimized building blocks for smart contract development.
 - [solady](https://github.com/Vectorized/solady) - Optimized Solidity snippets.
 
 ## Libraries (JavaScript, React)
 
+- [Web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API which connects to the Generic JSON-RPC spec.
+- [Ethers.js](https://github.com/ethers-io/ethers.js/) - an alternative to Web3.js. Complete Ethereum library and wallet implementation in JavaScript.
 - [wagmi](https://github.com/wagmi-dev/wagmi) - React Hooks for Ethereum.
 - [react-web3](https://github.com/coopermaruyama/react-web3) - Ensure web3 is available before your app loads.
 - [Uniswap / web3-react](https://github.com/Uniswap/web3-react) - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps.
-- [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts. 
+- [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts.
 
 ## Wallets
 
@@ -39,13 +44,18 @@
 - [Chainlist](https://github.com/DefiLlama/chainlist) - Chainlist is a list of EVM networks. Users can use the information to connect their wallets and Web3 middleware providers to the appropriate Chain ID and Network ID to connect to the correct chain.
 - [blockchain-cli](https://github.com/0xs34n/blockchain-cli) - A minimal blockchain command-line interface.
 
+## Test blockchain networks
+
+- [Ganache](https://trufflesuite.com/ganache/) - Quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
+
 ## Blockchain explorers
 
 - [Blockscout](https://github.com/blockscout/blockscout) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
 
 ## Languages
 
-- [Solidity](https://github.com/stars/karooolis/lists/web3-tools#:~:text=2%20weeks%20ago-,ethereum%20/%20solidity,-Starred) - Solidity, the Smart Contract Programming Language.
+- [Solidity](https://soliditylang.org/) - Solidity, the Smart Contract Programming Language.
+- [Vyper](https://vyper.readthedocs.io/en/stable/) - Vyper is a contract-oriented, pythonic programming language that targets the Ethereum Virtual Machine (EVM).
 
 ## Documentation
 
@@ -71,7 +81,7 @@
 
 ## Code quality, security & linting
 
-- [duaraghav8 / Ethlint](https://github.com/duaraghav8/Ethlint) - (Formerly Solium) Code quality & Security Linter for Solidity.
+- [Ethlint](https://github.com/duaraghav8/Ethlint) - (Formerly Solium) Code quality & Security Linter for Solidity.
 
 ## Faucets
 
