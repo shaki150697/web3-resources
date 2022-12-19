@@ -33,6 +33,7 @@
 - [react-web3](https://github.com/coopermaruyama/react-web3) - Ensure web3 is available before your app loads.
 - [Uniswap / web3-react](https://github.com/Uniswap/web3-react) - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps.
 - [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts.
+- [Multicall.js](https://github.com/makerdao/multicall.js) - Multicall.js allows multiple smart contract constant function calls to be grouped into a single call and the results aggregated into a single result.
 
 ## Wallets
 
