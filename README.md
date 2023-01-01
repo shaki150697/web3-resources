@@ -105,6 +105,14 @@
 - [Uniswap v3 book](https://github.com/Jeiwan/uniswapv3-book) - Uniswap V3 Development Book.
 - [The Auditor Book](https://theauditorbook.com/) - A compilation of high and medium-severity findings from Code4rena & Sherlock.
 
+## Courses
+
+- [Buildspace](https://buildspace.so/)
+- [Metaschool](https://metaschool.so/)
+- [Web3 University](https://www.web3.university/)
+- [0xMacro Engineering Fellowship](https://0xmacro.com/engineering-fellowship)
+- [Advanced Solidity: Understanding and Optimizing Gas Costs](https://www.udemy.com/course/advanced-solidity-understanding-and-optimizing-gas-costs/)
+
 ## Awesome lists
 
 - [crisgarner / awesome-foundry](https://github.com/crisgarner/awesome-foundry) - A curated list of awesome of the Foundry development framework.
