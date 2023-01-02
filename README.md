@@ -119,3 +119,4 @@
 - [ConsenSys / ethereum-developer-tools-list](https://github.com/ConsenSys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
 - [jasonwalsh / awesome-dapps](https://github.com/jasonwalsh/awesome-dapps) - A curated list of awesome decentralized applications / resources.
 - [bkrem / awesome-solidity](https://github.com/bkrem/awesome-solidity) - A curated list of awesome Solidity resources, libraries, tools and more.
+- [Web3Collection](https://www.web3collection.app/) - directory of tools and resources for web3 developers and dev-entrepreneurs.
