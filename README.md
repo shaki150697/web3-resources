@@ -44,6 +44,7 @@
 
 - [Chainlist](https://github.com/DefiLlama/chainlist) - Chainlist is a list of EVM networks. Users can use the information to connect their wallets and Web3 middleware providers to the appropriate Chain ID and Network ID to connect to the correct chain.
 - [blockchain-cli](https://github.com/0xs34n/blockchain-cli) - A minimal blockchain command-line interface.
+- [Polybase](https://github.com/polybase) - An open-source decentralized alternative to Firebase, Firestore etc.
 
 ## Test blockchain networks
 
